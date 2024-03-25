@@ -1,4 +1,4 @@
-### 개발자 김민중의 Github 👋
+### 개발자 김민중의 Github :blush:
 
 <!-- info -->
 ### :wave: Welcome!
