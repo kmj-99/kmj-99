@@ -1,7 +1,7 @@
 ### 개발자 김민중의 Github 👋
 
 <!-- info -->
-### :wave: Welcome!
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=kmj-99&fontSize=60&&fontColor=auto&animation=fadeIn&fontAlignY=50&descAlignY=50&descAlign=62)
 
 
 
@@ -20,6 +20,15 @@
   
 
 </div>
+
+<h3>
+  <b> 🧑🏻‍💻 Algorithm 🧑🏻‍💻 </b>
+</h3>
+
+<a href="https://solved.ac/nex1223/" target="_blank">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nex1223" alt="Solved.ac Profile">
+  <img src="http://mazandi.herokuapp.com/api?handle=jcjin1&theme=warm" alt="mazandi profile">
+</a>
 
 <h2><b> ☎ Contact ☎ </b></h2> 
 
