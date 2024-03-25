@@ -32,14 +32,6 @@
 |`2021-10` ~ `2021-11`|당근마켓 클론|안드로이드 1명 , 서버 2명|
 
 
-<h3>
-  <h2><b> 🧑🏻‍💻 Algorithm 🧑🏻‍💻 </b></h2>
-</h3>
-
-<a href="https://solved.ac/nex1223/" target="_blank">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nex1223" alt="Solved.ac Profile">
-  <img src="http://mazandi.herokuapp.com/api?handle=jcjin1&theme=warm" alt="mazandi profile">
-</a>
 
 <h2><b> ☎ Contact ☎ </b></h2> 
 
