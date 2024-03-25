@@ -22,7 +22,7 @@
 </div>
 
 <h3>
-  <b> 🧑🏻‍💻 Algorithm 🧑🏻‍💻 </b>
+  <h2><b> 🧑🏻‍💻 Algorithm 🧑🏻‍💻 </b></h2>
 </h3>
 
 <a href="https://solved.ac/nex1223/" target="_blank">
