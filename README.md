@@ -1,11 +1,8 @@
-### 개발자 김민중의 Github 👋
+### 끈기 있는 개발자 김민중의 Github 👋
 
 <!-- info -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=kmj-99&fontSize=60&&fontColor=auto&animation=fadeIn&fontAlignY=50&descAlignY=50&descAlign=62)
 
-<h2><b>  키워드  </b></h2>  
-
-### 끈기
 
 ------
 
