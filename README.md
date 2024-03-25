@@ -18,4 +18,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmj-99&show_icons=true&theme=radical)
 
-</div
+</div>
+
+### Contact
+<a>[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](javascript:void(location.href='mailto:write-your-email'))</a>
+
