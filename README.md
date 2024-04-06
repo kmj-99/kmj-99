@@ -31,14 +31,6 @@
 |`2023-11` ~ `2024-03`|직장 및 학교를 기준으로 주변 자취방을 찾아주는 서비스|안드로이드 1명,서버 2명,디자이너 1명|
 
 
-<h3>
-  <h2><b> 🧑🏻‍💻 Algorithm 🧑🏻‍💻 </b></h2>
-</h3>
-
-<a href="https://solved.ac/nex1223/" target="_blank">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nex1223" alt="Solved.ac Profile">
-  <img src="http://mazandi.herokuapp.com/api?handle=jcjin1&theme=warm" alt="mazandi profile">
-</a>
 
 <h2><b> ☎ Contact ☎ </b></h2> 
 
